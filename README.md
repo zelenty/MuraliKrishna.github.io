@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00E7FF&center=true&vCenter=true&width=800&lines=Hello+There!+I'm+Murali+Krishna+👋;Salesforce+Developer+%7C+Apex+%7C+LWC+Expert;Integration+Specialist+%7C+Pardot+Automation;API+Engineer+%7C+Donation+Platform+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=37F4FF&center=true&vCenter=true&width=800&lines=Hello+I'm+Murali+Krishna+👋;Salesforce+Developer;Apex+%7C+LWC+%7C+Integrations;Pardot+Automation+%7C+API+Engineer;Donation+Platform+Automation+Expert" alt="Typing Animation" />
 </p>
 
 ---
@@ -11,111 +11,117 @@
   <img src="https://img.shields.io/badge/Salesforce-Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Apex-Code-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LWC-Expert-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Integrations-REST%20%7C%20OAuth-00e8ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Integrations-REST%20%7C%20OAuth-00E7FD?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 **About Me**
-
-✨ Passionate Salesforce Developer  
-✨ Specialist in API Integrations, Donation Automation & Pardot  
-✨ Clean code + scalable architecture believer  
-✨ Building smart solutions for nonprofits & enterprise systems  
+- 💼 Salesforce Developer with expertise in **Apex, LWC, Aura, Pardot, REST APIs, and NPSP Integrations**
+- 🔗 Specialist in **PayPal, iDonate, Every.org donation automation**
+- 🚀 Built large-scale **Batch Apex systems (6M+ records)**
+- 🎯 Strong experience in **WordPress + API integration**
+- ❤️ Passionate about building smart, scalable Salesforce solutions
 
 ---
 
-# 🔥 **GitHub Stats & Analytics**
-
+# 🔥 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murali-krishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murali-krishna&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Murali-Krishna-1-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murali-Krishna-1-1&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-# 🏆 **GitHub Trophy Case**
-
+# 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murali-krishna&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Murali-Krishna-1-1&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-# 🌐 **3D Contribution Graph**
-
+# 🌈 **3D Contribution Graph**
 <p align="center">
-  <img src="https://github.com/ybndrsn/ybndrsn/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800" />
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/master/profile-night-rainbow.svg" width="800" />
 </p>
 
 ---
 
-# 🎨 **Tech Stack**
+# 🛠️ **Tech Skills**
 
-### **Salesforce**
-⭐ Apex (Triggers, Batch, Future, Queueable)  
-⭐ Lightning Web Components (LWC)  
-⭐ Aura Components  
-⭐ Visualforce  
-⭐ SOQL / SOSL  
-⭐ Platform Events  
-⭐ Pardot (Account Engagement)  
+### ⚡ Salesforce Development
+- Apex (Triggers, Batch, Queueable, Future, Controllers)
+- Lightning Web Components (LWC)
+- Aura Components  
+- Visualforce  
+- SOQL / SOSL  
+- Platform Events  
+- Exception Handling Frameworks  
 
-### **Integrations**
-🔥 REST & SOAP APIs  
-🔥 OAuth 2.0  
-🔥 Apex Callouts  
-🔥 Payment Gateways (PayPal, iDonate, Every.org)  
-🔥 Eventbrite → Salesforce Sync  
+### 🔗 Integrations
+- REST & SOAP APIs  
+- OAuth 2.0  
+- Apex Callouts  
+- Payment Gateways (PayPal, iDonate, Every.org)  
+- Eventbrite → Salesforce Sync  
 
-### **Other Tools**
-- JavaScript, HTML, CSS  
+### 🎨 Other Skills
+- HTML, CSS, JavaScript  
 - WordPress  
-- GitHub  
-- Java  
-- JSON / XML  
+- Git & GitHub  
+- Java (OOP)  
 
 ---
 
-# 📂 **Featured Projects**
+# 📂 **Top Projects**
 
-### 🚀 **Donation Automation System**
-- Automated PayPal, iDonate, Every.org donation imports
-- Synced real-time gift records into Salesforce NPSP  
-- Logged errors, retry logic, and reconciliation workflows  
+### 🔹 **Donation Automation System**
+- Automated PayPal, iDonate & Every.org syncing  
+- Real-time donation imports into Salesforce NPSP  
+- Reconciliation + retry logic  
 
-### 🎯 **Pardot Engagement Journeys**
-- Lead nurturing programs  
-- Email automation  
-- Lead scoring & segmentation  
+### 🔹 **Pardot (Account Engagement) Automation**
+- Lead scoring + nurturing  
+- Automated email journeys  
+- Custom segmentation rules  
 
-### 🚚 **Logistics Integration + Batch Apex**
-- Processed 5–6 million records  
-- Built robust batching + API sync logic  
+### 🔹 **Logistics Platform Integration**
+- REST API integration  
+- Batch Apex handling 5–6 million records  
+- Data sync & high-performance processing  
 
-### 🎫 **Eventbrite Integration**
-- Full event → contact → campaign sync  
+### 🔹 **Eventbrite to Salesforce Integration**
+- Automated event registration sync  
 
 ---
 
 # 🎓 **Certifications**
-🏅 Salesforce Platform Developer I  
-🏅 Salesforce Developer Internship Certificate  
-🏅 HackerRank JavaScript (Basic)  
+- 🏅 Salesforce Platform Developer I  
+- 🏅 Salesforce Developer Internship  
+- 🏅 HackerRank JavaScript (Basic)  
 
 ---
 
-# 📬 **Contact Me**
+# 🌐 **Portfolio Website**
+👉 **https://murali-krishna-1-1.github.io/**
+
+Everything in this repository powers my personal dark-mode portfolio.
+
+---
+
+# 📬 **Contact**
 
 <p align="left">
   <a href="mailto:muralikrishna17b@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/iam-murali/">
-    <img src="https://img.shields.io/badge/LinkedIn-iam--murali-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-iam--murali-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://muralikrishna.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00e5ff?style=for-the-badge&logo=google-chrome">
+
+  <a href="https://murali-krishna-1-1.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-00F0FF?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
 
@@ -123,9 +129,7 @@
 
 # ⭐ **Profile Views**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=murali-krishna&style=for-the-badge&color=0bdede">
+  <img src="https://komarev.com/ghpvc/?username=Murali-Krishna-1-1&style=for-the-badge&color=08F7FF" />
 </p>
-
----
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
