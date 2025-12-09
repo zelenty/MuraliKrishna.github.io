@@ -1,123 +1,107 @@
-# 🎯 **Murali Krishna — Salesforce Developer**
-
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-Developer-blue?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apex-Expert-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LWC-Developer-purple?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>Salesforce Developer specializing in Apex, LWC, Pardot Automation, API Integrations & Donation Processing Systems.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00E7FF&center=true&vCenter=true&width=800&lines=Hello+There!+I'm+Murali+Krishna+👋;Salesforce+Developer+%7C+Apex+%7C+LWC+Expert;Integration+Specialist+%7C+Pardot+Automation;API+Engineer+%7C+Donation+Platform+Automation" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🧑‍🚀 **About Me**
+# 👨‍💻 **Murali Krishna — Salesforce Developer**
 
-I’m **Murali Krishna**, a Salesforce Developer with real-world experience building:
-
-✔️ Scalable Apex & LWC solutions
-✔️ Pardot (Account Engagement) campaigns & automation
-✔️ Payment platform integrations
-✔️ API/REST/OAuth-based workflows
-✔️ WordPress customizations
-✔️ Donation automation for nonprofits
-
-I love solving business problems using clean, efficient code and automated workflows.
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-Code-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LWC-Expert-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Integrations-REST%20%7C%20OAuth-00e8ff?style=for-the-badge" />
+</p>
 
 ---
 
-# 🛠️ **Tech Stack & Tools**
+## 🚀 **About Me**
 
-### 🧩 **Salesforce Development**
-
-* ⚡ Apex (Triggers, Batch, Queueable, Controllers)
-* ⚡ Lightning Web Components (LWC)
-* ⚡ Aura Components
-* ⚡ Visualforce
-* ⚡ SOQL / SOSL
-* ⚡ Error Handling Frameworks
-
-### 🔗 **Integrations**
-
-* 🔗 REST & SOAP APIs
-* 🔗 OAuth 2.0
-* 🔗 Apex Callouts
-* 🔗 Platform Events
-* 🔗 Postman
-
-### ⚙️ **Salesforce Admin**
-
-* 🛡️ Security & Sharing
-* 🔄 Flows, Process Builder, Workflow
-* 📊 Reports & Dashboards
-* 🎛️ Lightning App Customization
-
-### 🌐 **Other Skills**
-
-* 🎨 HTML, CSS, JS
-* 🌍 WordPress
-* 🧪 GitHub
-* ☕ Java (OOP)
+✨ Passionate Salesforce Developer  
+✨ Specialist in API Integrations, Donation Automation & Pardot  
+✨ Clean code + scalable architecture believer  
+✨ Building smart solutions for nonprofits & enterprise systems  
 
 ---
 
-# 💼 **Professional Experience**
+# 🔥 **GitHub Stats & Analytics**
 
-### 🟦 **Techtinium — Software Engineer (Jan 2025 – Present)**
-
-* Built & optimized **Pardot** lead nurturing journeys
-* Automated donation imports using **PayPal, iDonate, Every.org**
-* Integrated **Eventbrite → Salesforce** event flows
-* Maintained marketing analytics dashboards
-* Synced Salesforce NPSP donor data with external platforms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murali-krishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murali-krishna&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-### 🟩 **Lean AgileNautics — Salesforce Developer (Jul 2023 – Jan 2025)**
+# 🏆 **GitHub Trophy Case**
 
-* Developed logistics & healthcare applications
-* Built Batch Apex to process **5–6 million records**
-* Implemented REST integrations with external systems
-* Built Aura components & automation tools
-* Improved system performance through bug fixes & testing
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=murali-krishna&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-### 🟨 **Lean AgileNautics — Developer Intern (Apr 2023 – Jun 2023)**
+# 🌐 **3D Contribution Graph**
 
-* Apex triggers, batch jobs, REST integrations
-* Flow-based automation & data handling
-
----
-
-### 🟧 **SmartInternz — Salesforce Intern (Jul 2022 – Sep 2022)**
-
-* Completed Apex, LWC & CRM modules
-* Hands-on projects & real-world scenarios
+<p align="center">
+  <img src="https://github.com/ybndrsn/ybndrsn/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800" />
+</p>
 
 ---
 
-# 🏆 **Certifications**
+# 🎨 **Tech Stack**
 
-🎖 **Salesforce Platform Developer I (2024)**
-🎖 **Salesforce Developer Virtual Internship**
-🎖 **HackerRank JavaScript (Basic)**
+### **Salesforce**
+⭐ Apex (Triggers, Batch, Future, Queueable)  
+⭐ Lightning Web Components (LWC)  
+⭐ Aura Components  
+⭐ Visualforce  
+⭐ SOQL / SOSL  
+⭐ Platform Events  
+⭐ Pardot (Account Engagement)  
+
+### **Integrations**
+🔥 REST & SOAP APIs  
+🔥 OAuth 2.0  
+🔥 Apex Callouts  
+🔥 Payment Gateways (PayPal, iDonate, Every.org)  
+🔥 Eventbrite → Salesforce Sync  
+
+### **Other Tools**
+- JavaScript, HTML, CSS  
+- WordPress  
+- GitHub  
+- Java  
+- JSON / XML  
 
 ---
 
-# 🎓 **Education**
+# 📂 **Featured Projects**
 
-🎓 **MCA** — Jain University (2024–2026)
-🎓 **B.Sc. IT** — NGM College (2020–2023)
+### 🚀 **Donation Automation System**
+- Automated PayPal, iDonate, Every.org donation imports
+- Synced real-time gift records into Salesforce NPSP  
+- Logged errors, retry logic, and reconciliation workflows  
+
+### 🎯 **Pardot Engagement Journeys**
+- Lead nurturing programs  
+- Email automation  
+- Lead scoring & segmentation  
+
+### 🚚 **Logistics Integration + Batch Apex**
+- Processed 5–6 million records  
+- Built robust batching + API sync logic  
+
+### 🎫 **Eventbrite Integration**
+- Full event → contact → campaign sync  
 
 ---
 
-# 🌍 **Portfolio Website**
-
-🌐 **Live:** [https://muralikrishna.github.io/](https://muralikrishna.github.io/)
-
-This repository contains the source code for my personal dark-mode portfolio website hosted on **GitHub Pages**.
+# 🎓 **Certifications**
+🏅 Salesforce Platform Developer I  
+🏅 Salesforce Developer Internship Certificate  
+🏅 HackerRank JavaScript (Basic)  
 
 ---
 
@@ -125,22 +109,23 @@ This repository contains the source code for my personal dark-mode portfolio web
 
 <p align="left">
   <a href="mailto:muralikrishna17b@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/iam-murali/">
-    <img src="https://img.shields.io/badge/LinkedIn-iam--murali-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-iam--murali-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://muralikrishna.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00e5ff?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
 
 ---
 
-# ⭐ **If you like my work**
-
-Feel free to ⭐ star the repo, connect on LinkedIn, or reach out for Salesforce development collaboration!
+# ⭐ **Profile Views**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=murali-krishna&style=for-the-badge&color=0bdede">
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muralikrishna&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-```
+<p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
