@@ -1,5 +1,4 @@
 // Basic interactive & animation logic (vanilla JS)
-
 // HERO CANVAS: floating organic blobs
 (function heroCanvas(){
   const canvas = document.getElementById('hero-canvas');
