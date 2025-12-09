@@ -1,132 +1,146 @@
-Murali Krishna — Salesforce Developer
+# 🎯 **Murali Krishna — Salesforce Developer**
 
-A passionate Salesforce Developer with strong experience in Apex, Lightning Web Components, Pardot (Account Engagement), API Integrations, WordPress, and payment platform automation (PayPal, iDonate, Every.org). I specialize in building scalable integrations, automated donation processing, and marketing automation workflows that support nonprofit fundraising operations.
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-Developer-blue?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-Expert-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LWC-Developer-purple?style=for-the-badge" />
+</p>
 
-👨‍💻 About Me
+<p align="center">
+  <b>Salesforce Developer specializing in Apex, LWC, Pardot Automation, API Integrations & Donation Processing Systems.</b>
+</p>
 
-I am a Software Engineer focused on delivering efficient, reliable CRM solutions on the Salesforce platform.
-My work includes:
+---
 
-Automating donation and payment integrations
+# 🧑‍🚀 **About Me**
 
-Developing secure REST API integrations
+I’m **Murali Krishna**, a Salesforce Developer with real-world experience building:
 
-Designing LWC components and custom UI
+✔️ Scalable Apex & LWC solutions
+✔️ Pardot (Account Engagement) campaigns & automation
+✔️ Payment platform integrations
+✔️ API/REST/OAuth-based workflows
+✔️ WordPress customizations
+✔️ Donation automation for nonprofits
 
-Building batch processes for large-scale data handling
+I love solving business problems using clean, efficient code and automated workflows.
 
-Implementing Pardot engagement journeys
+---
 
-WordPress customization and flow integrations
+# 🛠️ **Tech Stack & Tools**
 
-🛠️ Technical Skills
-Salesforce Development
+### 🧩 **Salesforce Development**
 
-Apex (Triggers, Controllers, Batch, Queueable, Future)
+* ⚡ Apex (Triggers, Batch, Queueable, Controllers)
+* ⚡ Lightning Web Components (LWC)
+* ⚡ Aura Components
+* ⚡ Visualforce
+* ⚡ SOQL / SOSL
+* ⚡ Error Handling Frameworks
 
-Lightning Web Components (LWC)
+### 🔗 **Integrations**
 
-Aura Components
+* 🔗 REST & SOAP APIs
+* 🔗 OAuth 2.0
+* 🔗 Apex Callouts
+* 🔗 Platform Events
+* 🔗 Postman
 
-Visualforce
+### ⚙️ **Salesforce Admin**
 
-SOQL, SOSL
+* 🛡️ Security & Sharing
+* 🔄 Flows, Process Builder, Workflow
+* 📊 Reports & Dashboards
+* 🎛️ Lightning App Customization
 
-Error & Exception Handling
+### 🌐 **Other Skills**
 
-Integrations
+* 🎨 HTML, CSS, JS
+* 🌍 WordPress
+* 🧪 GitHub
+* ☕ Java (OOP)
 
-REST / SOAP APIs
+---
 
-OAuth 2.0
+# 💼 **Professional Experience**
 
-Custom Apex REST Services
+### 🟦 **Techtinium — Software Engineer (Jan 2025 – Present)**
 
-Platform Events
+* Built & optimized **Pardot** lead nurturing journeys
+* Automated donation imports using **PayPal, iDonate, Every.org**
+* Integrated **Eventbrite → Salesforce** event flows
+* Maintained marketing analytics dashboards
+* Synced Salesforce NPSP donor data with external platforms
 
-Postman
+---
 
-Salesforce Administration
+### 🟩 **Lean AgileNautics — Salesforce Developer (Jul 2023 – Jan 2025)**
 
-Object & Data Modeling
+* Developed logistics & healthcare applications
+* Built Batch Apex to process **5–6 million records**
+* Implemented REST integrations with external systems
+* Built Aura components & automation tools
+* Improved system performance through bug fixes & testing
 
-Security Model
+---
 
-Flows & Automation Tools
+### 🟨 **Lean AgileNautics — Developer Intern (Apr 2023 – Jun 2023)**
 
-Reports & Dashboards
+* Apex triggers, batch jobs, REST integrations
+* Flow-based automation & data handling
 
-Lightning Experience Customization
+---
 
-Other Skills
+### 🟧 **SmartInternz — Salesforce Intern (Jul 2022 – Sep 2022)**
 
-JavaScript, HTML, CSS
+* Completed Apex, LWC & CRM modules
+* Hands-on projects & real-world scenarios
 
-WordPress
+---
 
-GitHub
+# 🏆 **Certifications**
 
-Java
+🎖 **Salesforce Platform Developer I (2024)**
+🎖 **Salesforce Developer Virtual Internship**
+🎖 **HackerRank JavaScript (Basic)**
 
-OOPs Concepts
+---
 
-💼 Experience
-Techtinium — Software Engineer (Jan 2025 – Present)
+# 🎓 **Education**
 
-Manage and optimize Pardot (Account Engagement) campaigns for donor engagement.
+🎓 **MCA** — Jain University (2024–2026)
+🎓 **B.Sc. IT** — NGM College (2020–2023)
 
-Build automated lead nurturing, scoring, and segmentation flows.
+---
 
-Integrate Salesforce NPSP with PayPal, iDonate, and other payment platforms.
+# 🌍 **Portfolio Website**
 
-Implement automated donation data synchronization with error handling.
+🌐 **Live:** [https://muralikrishna.github.io/](https://muralikrishna.github.io/)
 
-Integrate Eventbrite with Salesforce for seamless event management.
+This repository contains the source code for my personal dark-mode portfolio website hosted on **GitHub Pages**.
 
-Analyze marketing data and deliver actionable insights.
+---
 
-Lean AgileNautics — Salesforce Developer (Jul 2023 – Jan 2025)
+# 📬 **Contact Me**
 
-Built healthcare and logistics solutions using Salesforce.
+<p align="left">
+  <a href="mailto:muralikrishna17b@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iam-murali/">
+    <img src="https://img.shields.io/badge/LinkedIn-iam--murali-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-Worked on REST API integrations and Batch Apex processing for 5–6 million records.
+---
 
-Developed Aura components and testing frameworks.
+# ⭐ **If you like my work**
 
-Identified system issues and improved functionality.
+Feel free to ⭐ star the repo, connect on LinkedIn, or reach out for Salesforce development collaboration!
 
-Collaborated with cross-functional teams to deploy end-to-end features.
+---
 
-Lean AgileNautics — Salesforce Developer Intern (Apr 2023 – Jun 2023)
-
-Developed Apex triggers, batch classes, REST integrations, and Flows.
-
-Assisted in designing and implementing scalable Salesforce features.
-
-SmartInternz — Salesforce Developer Intern (Jul 2022 – Sept 2022)
-
-Completed hands-on Salesforce CRM, Apex, and Lightning modules.
-
-Worked on mini-projects and real-world problem-solving tasks.
-
-🏆 Certifications
-
-Salesforce Certified Platform Developer I (2024)
-
-Salesforce Developer Virtual Internship Certificate
-
-HackerRank JavaScript (Basic) Certificate
-
-🎓 Education
-
-Master of Computer Applications (MCA) — Jain University (2024 – 2026)
-
-B.Sc. Information Technology — NGM College (2020 – 2023)
-
-📬 Contact
-
-Email: muralikrishna17b@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/iam-murali
-
-Portfolio: https://muralikrishna.github.io/
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muralikrishna&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+```
