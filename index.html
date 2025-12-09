@@ -1,74 +1,129 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Murali Krishna - Salesforce Developer Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Murali Krishna — Salesforce Developer</title>
+  <meta name="description" content="Murali Krishna — Salesforce Developer. Skills: Apex, LWC, Pardot (Account Engagement), Payment Integrations (PayPal, iDonate, Every.org), Donation Automation, WordPress." />
+  <link rel="canonical" href="https://muralikrishna.github.io/">
+  <meta name="author" content="Murali Krishna">
+  <meta property="og:title" content="Murali Krishna — Salesforce Developer">
+  <meta property="og:description" content="Salesforce developer skilled in Apex, LWC, Pardot, and payment platform integrations.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://muralikrishna.github.io/">
+  <meta property="og:image" content="assets/photo.jpg">
+
+  <link rel="stylesheet" href="styles.css">
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Person",
+    "name":"Murali Krishna",
+    "jobTitle":"Salesforce Developer",
+    "url":"https://muralikrishna.github.io/",
+    "sameAs":[
+      "https://www.linkedin.com/in/iam-murali/"
+    ],
+    "alumniOf": "Jain University",
+    "knowsAbout":["Salesforce","Apex","Lightning Web Components","Pardot","Payment Integrations"]
+  }
+  </script>
 </head>
-<body>
-    <header>
-        <h1>Murali Krishna</h1>
-        <p>Udumalaipettai, Tiruppur, Tamil Nadu-642128</p>
-        <p>Email: muralikrishna1624@icloud.com</p>
-        <p>Phone: +91 6302541324</p>
-        <p><a href="https://www.linkedin.com/in/iam-murali/">LinkedIn Profile</a></p>
-    </header>
+<body class="dark">
+  <header class="site-header">
+    <div class="container">
+      <h1 class="name">Murali Krishna</h1>
+      <p class="subtitle">Salesforce Developer — Integrations · Pardot · Donation Automation</p>
+      <nav class="topnav">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+        <a class="resume" href="resume.pdf" download>Download Resume</a>
+      </nav>
+    </div>
+  </header>
 
-    <section class="objective">
-        <h2>Objective</h2>
-        <p>Dedicated Salesforce Developer with a passion for crafting custom solutions using Apex, Visualforce, and Lightning components. Seeking to leverage my strong problem-solving skills and technical expertise to design, develop, and enhance Salesforce applications.</p>
+  <main class="container">
+    <section id="hero" class="hero">
+      <img src="assets/photo.jpg" alt="Murali Krishna" class="photo">
+      <div class="hero-text">
+        <h2>Hello — I'm Murali</h2>
+        <p>Salesforce Developer with experience in Apex, LWC, Pardot (Account Engagement), and payment platform integrations (PayPal, iDonate, Every.org). I build automation for donation import, event integrations, and large-scale batch processing.</p>
+        <p class="cta">
+          <a href="#projects" class="btn">View Projects</a>
+          <a href="mailto:muralikrishna17b@gmail.com" class="btn ghost">Email Me</a>
+        </p>
+      </div>
     </section>
 
-    <section class="education">
-        <h2>Education</h2>
-        <p>Bachelor’s in Information Technology</p>
-        <p>Nallamuthu Gounder Mahalingam College, Pollachi, Tamilnadu</p>
-        <p>CGPA: 7.2/10</p>
-        <p>May 2023</p>
+    <section id="about" class="card">
+      <h3>About</h3>
+      <p>I am a Software Engineer with hands-on experience in Salesforce Admin, Apex, Lightning Web Components, Aura, REST APIs, and marketing automation using Pardot. I’ve integrated Salesforce NPSP with payment platforms and automated donation imports to improve data accuracy and reduce manual work. (Resume details sourced from my resume.)</p>
+      <ul class="skills">
+        <li>Apex &amp; LWC</li>
+        <li>Pardot / Account Engagement</li>
+        <li>Payment Integrations (PayPal, iDonate, Every.org)</li>
+        <li>WordPress (forms &amp; donation flows)</li>
+        <li>REST API, OAuth, Batch Apex</li>
+      </ul>
+      <p class="small">Resume: fileciteturn1file0</p>
     </section>
 
-    <section class="skills">
-        <h2>Skills</h2>
-        <ul>
-            <li>Salesforce: Admin Configuration, APEX, Apex Triggers, Visualforce Lightning Web Components (LWC), Aura, JavaScript, Field Service Lightning</li>
-            <li>Development: Complex LWC component development with unit testing</li>
-            <li>Integration: Apex REST Services, Salesforce Platform APIs</li>
-            <li>Tools: Postman, WorkBench, Data Loader</li>
-            <li>Problem-Solving: Clean code, design patterns</li>
-            <li>Communication: Excellent written and verbal skills</li>
-            <li>Methodologies: Agile</li>
-            <li>Leadership: Mentoring and leading delivery teams</li>
-        </ul>
-    </section>
-
-    <section class="accomplishments">
-        <h2>Accomplishments</h2>
-        <ul>
-            <li>Optimized Workflow Automation: Streamlined and automated complex business processes in Salesforce, reducing manual effort and improving efficiency.</li>
-            <!-- Add more accomplishments here -->
-        </ul>
-    </section>
-
-    <section class="experience">
-        <h2>Experience</h2>
-        <article>
-            <h3>Lean AgileNautics, (Remote) India</h3>
-            <p>Salesforce Developer</p>
-            <p>Jul 2023 - Present</p>
-            <ul>
-                <li>Working on a healthcare project to develop a solution for managing patient records and appointments.</li>
-                <!-- Add more experience details here -->
-            </ul>
+    <section id="projects" class="card">
+      <h3>Projects</h3>
+      <div class="project-grid">
+        <article class="project">
+          <h4>Donation Automation & Integrations</h4>
+          <p>Integrated PayPal, iDonate and Every.org with Salesforce NPSP to automate donation imports and recurring gifts processing. Built error handling and reconciliation workflows to ensure reliable donor data.</p>
+          <p class="tags"><span>Pardot</span><span>PayPal</span><span>NPSP</span></p>
         </article>
-        <!-- Add more experience articles as needed -->
+
+        <article class="project">
+          <h4>Pardot (Account Engagement) Campaigns</h4>
+          <p>Designed and executed automated engagement journeys, lead scoring, and nurturing campaigns to increase donor conversion and retention.</p>
+          <p class="tags"><span>Pardot</span><span>Marketing Automation</span></p>
+        </article>
+
+        <article class="project">
+          <h4>Large-scale Batch Processing</h4>
+          <p>Built Batch Apex and REST integrations to process 5–6 million records for a logistics solution and ensure robust error handling and monitoring.</p>
+          <p class="tags"><span>Batch Apex</span><span>REST API</span></p>
+        </article>
+
+        <article class="project">
+          <h4>Eventbrite → Salesforce Integration</h4>
+          <p>Automated event registration sync from Eventbrite into Salesforce to streamline attendee management and reporting.</p>
+          <p class="tags"><span>Eventbrite</span><span>Integration</span></p>
+        </article>
+      </div>
     </section>
 
-    <section class="trailhead-profile">
-        <h2>Trailhead Profile</h2>
-        <p><a href="https://www.salesforce.com/trailblazer/mkrishna90">Trailblazer Profile</a></p>
-        <p>Badges: 103 Points: 78,075 Trails: 14</p>
-        <p>Super Badges: Developer Super Set Apex Specialist Process Automation Specialist Superbadge</p>
+    <section id="contact" class="card">
+      <h3>Contact</h3>
+      <p>Email: <a href="mailto:muralikrishna17b@gmail.com">muralikrishna17b@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/iam-murali/" target="_blank" rel="noopener">iam-murali</a></p>
+      <p>GitHub (when live): <span id="ghrepo">muralikrishna.github.io</span></p>
+      <form class="contact-form" action="https://formspree.io/f/your-form-id" method="POST" target="_blank">
+        <input type="text" name="name" placeholder="Your name" required>
+        <input type="email" name="_replyto" placeholder="Your email" required>
+        <textarea name="message" placeholder="Message" rows="4" required></textarea>
+        <button type="submit" class="btn">Send</button>
+      </form>
     </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2025 Murali Krishna — Built with GitHub Pages.</p>
+    </div>
+  </footer>
+
+  <script>
+    // Small script for footer year
+    document.addEventListener('DOMContentLoaded', function(){ 
+      var y = new Date().getFullYear();
+      document.querySelector('.site-footer p').textContent = '© ' + y + ' Murali Krishna — Built with GitHub Pages.';
+    });
+  </script>
 </body>
 </html>
