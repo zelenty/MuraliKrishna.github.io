@@ -27,22 +27,22 @@
 
 # 🔥 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murali-Krishna-1-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murali-Krishna-1-1&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murali-krishna-1-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murali-krishna-1-1&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
 # 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Murali-Krishna-1-1&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=murali-krishna-1-1&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 # 🌈 **3D Contribution Graph**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/master/profile-night-rainbow.svg" width="800" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/profile-night-rainbow.svg" width="800" />
 </p>
 
 ---
@@ -129,7 +129,7 @@ Everything in this repository powers my personal dark-mode portfolio.
 
 # ⭐ **Profile Views**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Murali-Krishna-1-1&style=for-the-badge&color=08F7FF" />
+  <img src="https://komarev.com/ghpvc/?username=murali-krishna-1-1&style=for-the-badge&color=08F7FF" />
 </p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
