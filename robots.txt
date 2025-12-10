@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://murali-krishna-1-1.github.io/sitemap.xml
